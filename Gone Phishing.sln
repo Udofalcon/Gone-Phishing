@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gone Phishing.Plugins", "Gone Phishing.Plugins.csproj", "{AF56B586-F943-2270-25AA-EC540DAC355B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gone Phishing", "Gone Phishing.csproj", "{97705FE4-56E5-A748-15BA-13803820F159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gone Phishing.Editor.Plugins", "Gone Phishing.Editor.Plugins.csproj", "{6AEFFE85-6497-4E25-BC45-57E438128ED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF56B586-F943-2270-25AA-EC540DAC355B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF56B586-F943-2270-25AA-EC540DAC355B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF56B586-F943-2270-25AA-EC540DAC355B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF56B586-F943-2270-25AA-EC540DAC355B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97705FE4-56E5-A748-15BA-13803820F159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97705FE4-56E5-A748-15BA-13803820F159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97705FE4-56E5-A748-15BA-13803820F159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97705FE4-56E5-A748-15BA-13803820F159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEFFE85-6497-4E25-BC45-57E438128ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEFFE85-6497-4E25-BC45-57E438128ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEFFE85-6497-4E25-BC45-57E438128ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEFFE85-6497-4E25-BC45-57E438128ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
